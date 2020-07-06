@@ -1,0 +1,13 @@
+# Font style metadata
+name = "custom"
+
+# Optional Google font URL
+google_fonts = "Roboto:400,700|Fira+Mono:400,700"
+
+# Font families
+# heading_font = "Piedra cursive"
+heading_font = "Fira Mono"
+
+body_font = "Roboto"
+nav_font = "Roboto"
+mono_font = "Roboto"
